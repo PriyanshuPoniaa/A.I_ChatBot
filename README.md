@@ -19,7 +19,7 @@ https://a-i-chat-kf7d4kg17-priyanshu-ponias-projects.vercel.app/
 
 ## 🖼️ Preview
 
-![Gemini ChatBot UI](https://your-screenshot-link.com) <!-- Replace with actual screenshot -->
+![Gemini ChatBot UI]([https://your-screenshot-link.com](https://github.com/PriyanshuPoniaa/A.I_ChatBot/blob/main/chatbotpp.png)) <!-- Replace with actual screenshot -->
 
 ---
 
