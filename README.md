@@ -1,6 +1,11 @@
-# 💬 Gemini AI ChatBot
+# 💬  AI ChatBot
 
 A sleek and responsive AI chatbot built using **React.js**, powered by **Google's Gemini API**, and styled with custom CSS. It supports both text input and speech-to-text via the Web Speech API. Switch between dark and light modes and enjoy typing animations for a smooth user experience.
+
+## Frontend link = https://a-i-chat-bot.vercel.app/
+https://a-i-chat-kf7d4kg17-priyanshu-ponias-projects.vercel.app/
+
+## Backend link = https://a-i-chatbot-1.onrender.com
 
 ## 🚀 Features
 
@@ -10,6 +15,7 @@ A sleek and responsive AI chatbot built using **React.js**, powered by **Google'
 - 💡 Responsive design (mobile/tablet/desktop)
 - ⚡ Fast, clean UI using React and Vite
 - 🔐 Secure `.env` usage for API keys
+
 
 ## 🖼️ Preview
 
@@ -24,19 +30,4 @@ A sleek and responsive AI chatbot built using **React.js**, powered by **Google'
 - **API:** Google Gemini Pro API
 - **Styling:** Custom CSS
 - **Voice Input:** Web Speech API
-
----
-
-## 📦 Installation
-
-```bash
-# 1. Clone the repo
-git clone https://github.com/PriyanshuPoniaa/A.I_ChatBot.git
-cd A.I_ChatBot
-
-# 2. Install frontend dependencies
-npm install
-
-# 3. Start the frontend
-npm run dev
 
