@@ -1,12 +1,42 @@
-# React + Vite
+# 💬 Gemini AI ChatBot
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and responsive AI chatbot built using **React.js**, powered by **Google's Gemini API**, and styled with custom CSS. It supports both text input and speech-to-text via the Web Speech API. Switch between dark and light modes and enjoy typing animations for a smooth user experience.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🎤 Voice-to-text input (mic button)
+- ✨ Typing animation for AI responses
+- 🌗 Dark mode and light mode support
+- 💡 Responsive design (mobile/tablet/desktop)
+- ⚡ Fast, clean UI using React and Vite
+- 🔐 Secure `.env` usage for API keys
 
-## Expanding the ESLint configuration
+## 🖼️ Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Gemini ChatBot UI](https://your-screenshot-link.com) <!-- Replace with actual screenshot -->
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React + Vite
+- **Backend:** Node.js + Express (for Gemini API integration)
+- **API:** Google Gemini Pro API
+- **Styling:** Custom CSS
+- **Voice Input:** Web Speech API
+
+---
+
+## 📦 Installation
+
+```bash
+# 1. Clone the repo
+git clone https://github.com/PriyanshuPoniaa/A.I_ChatBot.git
+cd A.I_ChatBot
+
+# 2. Install frontend dependencies
+npm install
+
+# 3. Start the frontend
+npm run dev
+
