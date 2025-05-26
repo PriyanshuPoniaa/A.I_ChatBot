@@ -47,7 +47,7 @@ function App() {
     setTyping(true);
 
     try {
-      const res = await fetch('https://a-i-chatbot-1.onrender.com', {
+      const res = await fetch('http://localhost:3000/ai', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ prompt }),
