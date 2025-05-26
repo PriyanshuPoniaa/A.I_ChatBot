@@ -16,7 +16,7 @@ app.post('/ai', async (req, res) => {
 
   try {
     const response = await fetch(
-      `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${GEMINI_API_KEY}`,
+      `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyBHw88LT-90F1EU_9Od6l149Zli29J6iEg`,
       {
         method: 'POST',
         headers: {
